@@ -1,7 +1,7 @@
 
 # FINAL LAB
-# Rachel Edelstein - 200317329
-# Roni Savitsky - 208919688
+# Rachel Edelstein
+# Roni Savitsky
 
 import pandas as pd
 import numpy as np
